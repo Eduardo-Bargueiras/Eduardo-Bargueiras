@@ -8,7 +8,7 @@ Jundiaí, self-taught, focused on learning and specializing in technological kno
 
 ## Objective
 
-I am looking for a software development internship opportunity where I can apply my knowledge and improve it.
+- I am looking for a software development internship opportunity where I can apply my knowledge and improve it.
 ---
 
 ## Technical Skills
