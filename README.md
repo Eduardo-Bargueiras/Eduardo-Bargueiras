@@ -48,7 +48,7 @@ I am looking for a software development internship opportunity where I can apply
 
 ---
 
-## Contact
+## >> Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardobargueiras25@gmail.com)
 ![Location](https://img.shields.io/badge/Jundiaí,_SP-333333?style=flat-square&logo=googlemaps&logoColor=white)
