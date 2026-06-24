@@ -12,7 +12,7 @@ I am looking for a software development internship opportunity where I can apply
 
 ---
 
-## Technical Skills
+## >> My Technical Skills
 
 **Languages:**
 
@@ -29,7 +29,7 @@ I am looking for a software development internship opportunity where I can apply
 
 ---
 
-## Featured Projects
+## >> Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -40,7 +40,7 @@ I am looking for a software development internship opportunity where I can apply
 
 ---
 
-## Currently
+## >> Currently
 
 - Enrolled in the 1st year of the Technical High School in Systems Development.
 - English: # (#)
