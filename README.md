@@ -1,6 +1,6 @@
 # >> Eduardo Antônio de Oliveira Bargueiras
 
-**Future Backend Developer | ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
+**Future Backend Developer | Studant at ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
 
 Jundiaí, self-taught, focused on learning and specializing in technological knowledge.
 
