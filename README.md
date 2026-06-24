@@ -6,7 +6,7 @@ From Jundiaí, i am self-taught, focused on learning and specializing in technol
 
 ---
 
-## Objective
+## >> Current Objective
 
 I am looking for a software development internship opportunity where I can apply my knowledge and improve it.
 
