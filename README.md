@@ -74,7 +74,7 @@ I am looking for a software development internship opportunity where I can apply
 ## >> Currently
 
 - Enrolled in the 1st year of the Technical High School in Systems Development.
-- English: # (#)
+- English: B1-B2 (Intermediate)
 - Expected graduation: December 2028
 
 ---
