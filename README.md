@@ -6,6 +6,36 @@ From Jundiaí, i am self-taught, focused on learning and specializing in technol
 
 ---
 
+<a href="https://instagram.com/euedu776811" style="text-decoration: none;">
+    <img
+      alt="Instagram"
+      title="Connect with me on Instagram"
+      src="https://custom-icon-badges.demolab.com/badge/-Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=3380D8"
+      style="height: 23px;"
+    />
+  </a>
+
+  <a href="mailto:eduardobargueiras25@gmail.com" style="text-decoration: none;">
+    <img
+      alt="Gmail"
+      title="Send me an email"
+      src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3380D8"
+      style="height: 23px;"
+    />
+  </a>
+
+  #### School account
+
+ <a href="https://github.com/etecvav26-1C2-03" style="text-decoration: none;">
+    <img
+      alt="School account"
+      title="See my School account on GitHub"
+      src="https://custom-icon-badges.demolab.com/badge/-Account-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
+      style="height: 23px;"
+    />
+  </a>
+  
+---
 ## >> Current Objective
 
 I am looking for a software development internship opportunity where I can apply my knowledge and improve it.
