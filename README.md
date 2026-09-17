@@ -5,7 +5,6 @@
 From Jundiaí, i am self-taught, focused on learning and specializing in technological knowledge.
 
 ---
-#### Instagram
 
 <a href="https://instagram.com/euedu776811" style="text-decoration: none;">
     <img
@@ -15,8 +14,6 @@ From Jundiaí, i am self-taught, focused on learning and specializing in technol
       style="height: 23px;"
     />
   </a>
-
-#### Email
 
   <a href="mailto:eduardobargueiras25@gmail.com" style="text-decoration: none;">
     <img
