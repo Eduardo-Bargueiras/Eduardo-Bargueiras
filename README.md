@@ -1,6 +1,6 @@
 # >> Eduardo Antônio de Oliveira Bargueiras
 
-**Future Developer | Student at ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
+**Future Developer | Student at ETEC Vasco Antonio Venchiarutti | Systems development — Jundiaí, SP**
 
 From Jundiaí, i am self-taught, focused on learning and specializing in technological knowledge.
 
