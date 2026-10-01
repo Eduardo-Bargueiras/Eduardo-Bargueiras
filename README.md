@@ -64,7 +64,7 @@ I am looking for a software development internship opportunity where I can apply
 
 | Project | Description | Stack |
 |---|---|---|
-| [UnderC](https://github.com/Eduardo-Bargueiras/gamemaker-project/tree/main) | Gamemaker project based in Undertale | GML |
+| [UnderC](https://github.com/Eduardo-Bargueiras/gamemaker-project/tree/main) | Undertale-inspired battle simulator created in GML using GameMaker. | GML |
 | [#](#) | # | # |
 
 ---
